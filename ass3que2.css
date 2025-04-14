@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.red{
+    color:red;
+    font-weight: bold;
+}
+.blue{
+    color:blue;
+    font-weight: bold;
+}
+.orange{
+    color: orange;
+    font-weight: bold;
+}
+.purple{
+    color: purple;
+    font-weight: bold;
+}
+#red{
+    color: red;
+    font-weight: bold;
+}
+.green{
+    color: green;
+    font-weight: bold;
+}
+#caption{
+    font-weight: bold;
+    font-size: larger;
+}
+.class1{
+    font-weight: bolder;
+}
